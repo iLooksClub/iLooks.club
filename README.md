@@ -3,6 +3,8 @@ iLooks.club is a disrupting application for wearables commerce and entertainment
 
 <a href="http://imgur.com/O0MSa8H"><img src="http://i.imgur.com/O0MSa8H.jpg" title="source: imgur.com" /></a>
 
+Source [exact3dscanner](http://exact3dscanner.com/full-3d-body-scanning/)
+
 ## Original draft
 
 <ul>
