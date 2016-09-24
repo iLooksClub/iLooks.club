@@ -1,5 +1,5 @@
 # iLooks.club
-iLooks.club is a disrupting application for wearables commerce and entertainment powered by Ethereum Classic. It was conceived by Prophet Daniel and his rights were donated to the Ethereum Classic community.
+iLooks.club is a disrupting application for wearables commerce and entertainment powered by the Ethereum Classic blockchain. It was conceived by Prophet Daniel and his rights were donated to the Ethereum Classic community.
 
 ## Original draft
 
