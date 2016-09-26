@@ -44,3 +44,4 @@ Source [exact3dscanner](http://exact3dscanner.com/full-3d-body-scanning/)
 @ProphetDaniel
 
 # Support or Contact
+[prophetdaniel@ethereumclassic.org](mailto:prophetdaniel@ethereumclassic.org)
