@@ -41,31 +41,11 @@ Source [exact3dscanner](http://exact3dscanner.com/full-3d-body-scanning/)
 </ul>
 
 # Authors and Contributors
-<ul>
-<li>@ProphetDaniel</li>
-<li>@savandra</li>
+@ProphetDaniel
+
+@savandra
 
 # Support or Contact
 [prophetdaniel@ethereumclassic.org](mailto:prophetdaniel@ethereumclassic.org)
-[prophetdaniel@ethereumclassic.org](mailto:li><li>Donation campaigns score system whenever you donate, discount bonuses are added up to a given limit.</li>
-<li>Donation suggestions based on clothes not utilized in the closet. “Donating those 4 garments you don’t actually use, that garment in your wish list will cost to you $ xx.xx”.</li>
-<li>Your wearables and most important wearable gifts will never mismatch the user’s body again!</li>
-<li>Recording of utilized look that day in the Blockchain.</li>
-<li>Matching of images taken that day with look data recorded in Blockchain.</li>
-<li>Whenever an image is posted in social networks, our provided software API can get look information of each person present in the picture if they have consented to make this information public.</li> 
-</ul>
-### Extended module
-<ul>
-<li>RFID tags for feeding laundry and closet information.</li>
-<li>Clothes maintenance by selling or providing easy fix replaceables.</li>
-<li>Warranty of clothes based on how many times it was washed by RFID equipped washer.</li>
-<li>Extended warranty if washed by selected RFID enabled washers.</li>
-<li>Display of clothes cost-benefit score based on clothes endurance, purchase cost and maybe even maintenance cost.</li>
-<li>Instructions inside app of how to maintain delicate garments.</li>
-</ul>
-# Authors and Contributors
-@ProphetDaniel
-@savandra
-# Support or Contact
-[prophetdaniel@ethereumclassic.org](mailto:prophetdaniel@ethereumclassic.org)
+
 [savdeyev@gmail.com](mailto:savdeyev@gmail.com)
