@@ -1,9 +1,31 @@
-# Welcome to iLooks.club
+# Welcome to <img src="http://i.imgur.com/mvUQZfv.png" width="350"/>
+
 iLooks.club is a disrupting application for wearables commerce and entertainment powered by the Ethereum Classic blockchain. It was conceived by Prophet Daniel and his rights were donated to the Ethereum Classic community.
 
 <a href="http://imgur.com/O0MSa8H"><img src="http://i.imgur.com/O0MSa8H.jpg" title="source: imgur.com" /></a>
-
 Source [exact3dscanner](http://exact3dscanner.com/full-3d-body-scanning/)
+
+## Tell me more.
+People are so obsessed with their routine these days that the joy of planning and assembling their overall look seems to be forgotten in the past. What if the technology could really bring that magical contentment feelings back to our lives in a more intelligent way, wouldn't it be amazing? Meet iLooks.club.
+
+It is a fashion app that organizes all the related tasks for your look identity in ways never thought before, from look conception, sourcing, scheduling to interacting within social networks. As looks are tighly related to body shape, the app creates your 3D body model allowing you to import any garment you want to your realistic or enhanced model.
+
+The app records not only the evolution of your biometric information over time to but also the main triggers for body change, for example: 
+>"started gym on November 21th"
+
+Even if you don't have acces to a 3D full body scanner, biometric information can be input to the app with simple metric tape measurements.
+
+The look scheduler allows the looks of the week to be planned in advance considering weather forecast and available garments information.
+
+>Don't forget your umbrella today!
+
+>Weather forecast for tomorrow has changed, scheduled look will probably mismatch!
+
+Similar biometric information people are easilly discovered all over the world. The app uses your friends biometric data to show size matches in your network, but also suggests to exchange, sell or donate clothes you don’t use that often.
+
+Whenever a picture or video media is published, iLooks.club API is able to attach the look information to that media.This technology allows people to import or even buy exactly the same look the actor was utilizing in the movie with no questions asked, all the needed information is already available in the application.
+
+iLooks.club: The revolution in the world of fashion is about to come.
 
 ## Original draft
 
