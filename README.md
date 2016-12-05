@@ -1,4 +1,4 @@
-# Welcome to <img src="http://i.imgur.com/mvUQZfv.png" width="350"/>
+# Welcome to <img src="http://i.imgur.com/mvUQZfv.png" width="150"/>
 
 iLooks.club is a disrupting application for wearables commerce and entertainment powered by the Ethereum Classic blockchain. It was conceived by Prophet Daniel and his rights were donated to the Ethereum Classic community.
 
