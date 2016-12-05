@@ -3,10 +3,11 @@
 ___
 
 iLooks.club is a disrupting application for wearables commerce and entertainment powered by the Ethereum Classic blockchain. It was conceived by Prophet Daniel and his rights were donated to the Ethereum Classic community.
+<p align="center">
+  <a href="http://imgur.com/O0MSa8H"><img src="http://i.imgur.com/O0MSa8H.jpg" title="source: imgur.com" /></a>
+</p>
 
-<a href="http://imgur.com/O0MSa8H"><img src="http://i.imgur.com/O0MSa8H.jpg" title="source: imgur.com" /></a>
-
-Source [exact3dscanner](http://exact3dscanner.com/full-3d-body-scanning/)
+<p align="center"><a href="http://exact3dscanner.com/full-3d-body-scanning/"><p>Source exact3dscanner</p></a></p>
 
 ## Tell me more.
 People are so obsessed with their routine these days that the joy of planning and assembling their overall look seems to be forgotten in the past. What if the technology could really bring that magical contentment feelings back to our lives in a more intelligent way, wouldn't it be amazing? Meet iLooks.club.
