@@ -15,7 +15,7 @@ People are so obsessed with their routine these days that the joy of planning an
 It is a fashion app that organizes all the related tasks for your look identity in ways never thought before, from look conception, sourcing, scheduling to interacting within social networks. As looks are tighly related to body shape, the app creates your 3D body model allowing you to import any garment you want to your realistic or enhanced model.
 
 The app records not only the evolution of your biometric information over time to but also the main triggers for body change, for example: 
->"started gym on November 21th"
+>Started gym on November 21th
 
 Even if you don't have acces to a 3D full body scanner, biometric information can be input to the app with simple metric tape measurements.
 
