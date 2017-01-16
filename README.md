@@ -71,6 +71,8 @@ iLooks.club: The revolution in the world of fashion is about to come.
 
 @savandra
 
+[![Blockchain Alliance For Good](http://i.imgur.com/tWwy49k.png)](http://www.bisgit.org/)
+
 # Support or Contact
 [prophetdaniel@ethereumclassic.org](mailto:prophetdaniel@ethereumclassic.org)
 
