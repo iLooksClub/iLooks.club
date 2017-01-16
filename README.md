@@ -68,6 +68,7 @@ iLooks.club: The revolution in the world of fashion is about to come.
 
 # Authors and Contributors
 @ProphetDaniel
+
 @savandra
 
 # Sponsors
