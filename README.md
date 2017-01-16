@@ -25,7 +25,7 @@ The look scheduler allows the looks of the week to be planned in advance conside
 
 >Weather forecast for tomorrow has changed, scheduled look will probably mismatch!
 
-2Similar biometric information people are easilly discovered all over the world. The app uses your friends biometric data to show size matches in your network, but also suggests to exchange, sell or donate clothes you don’t use that often.
+Similar biometric information people are easilly discovered all over the world. The app uses your friends biometric data to show size matches in your network, but also suggests to exchange, sell or donate clothes you don’t use that often.
 
 Whenever a picture or video media is published, iLooks.club API is able to attach the look information to that media.This technology allows people to import or even buy exactly the same look the actor was utilizing in the movie with no questions asked, all the needed information is already available in the application.
 iLooks.club: The revolution in the world of fashion is about to come.
@@ -55,7 +55,7 @@ iLooks.club: The revolution in the world of fashion is about to come.
 <li>Matching of images taken that day with look data recorded in Blockchain.</li>
 <li>Whenever an image is posted in social networks, our provided software API can get look information of each person present in the picture if they have consented to make this information public.</li> 
 </ul>
-### Extended module
+## Extended module
 <ul>
 <li>RFID tags for feeding laundry and closet information.</li>
 <li>Clothes maintenance by selling or providing easy fix replaceables.</li>
