@@ -71,15 +71,10 @@ iLooks.club: The revolution in the world of fashion is about to come.
 
 @savandra
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    <a href="http://www.bisgit.org"><img src="http://i.imgur.com/tWwy49k.png" title="Blockchain Alliance For Good" /></a>   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-<p align="center">
-  <a href="http://www.bisgit.org"><img src="http://i.imgur.com/tWwy49k.png" title="Blockchain Alliance For Good" /></a>
-</p>
+|      Are      |  Cool |
+|:-------------:|------:|
+|  @ProphetDaniel | <a href="http://www.bisgit.org"><img src="http://i.imgur.com/tWwy49k.png" title="Blockchain Alliance For Good" /></a> |
+| @savandra |    |
 
 # Support or Contact
 [prophetdaniel@ethereumclassic.org](mailto:prophetdaniel@ethereumclassic.org)
