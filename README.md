@@ -74,7 +74,7 @@ iLooks.club: The revolution in the world of fashion is about to come.
 # Sponsors
 |            |  |
 |:-------------:|:------:|
-|   | <a href="http://www.bisgit.org"><img src="http://i.imgur.com/tWwy49kt.png" title="Blockchain Alliance For Good" /></a> |
+|   | <a href="http://www.bisgit.org"><img src="http://i.imgur.com/tWwy49ks.png" title="Blockchain Alliance For Good" /></a> |
 |   |    |
 
 # Support or Contact
