@@ -71,6 +71,7 @@ iLooks.club: The revolution in the world of fashion is about to come.
 @savandra
 
 # Sponsors
+|   |        |
 |:-------------:|:------:|
 |   | <a href="http://www.bisgit.org"><img src="http://i.imgur.com/tWwy49k.png" width="240" title="Blockchain Alliance For Good" /></a> |
 
