@@ -68,13 +68,13 @@ iLooks.club: The revolution in the world of fashion is about to come.
 
 # Authors and Contributors
 @ProphetDaniel
-
 @savandra
 
-|      Are      |  Cool |
-|:-------------:|------:|
-|  @ProphetDaniel | <a href="http://www.bisgit.org"><img src="http://i.imgur.com/tWwy49k.png" title="Blockchain Alliance For Good" /></a> |
-| @savandra |    |
+# Sponsors
+|            |  |
+|:-------------:|:------:|
+|   | <a href="http://www.bisgit.org"><img src="http://i.imgur.com/tWwy49k.png" title="Blockchain Alliance For Good" /></a> |
+|   |    |
 
 # Support or Contact
 [prophetdaniel@ethereumclassic.org](mailto:prophetdaniel@ethereumclassic.org)
